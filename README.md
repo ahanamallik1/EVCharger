@@ -11,7 +11,7 @@ By simulating how electric chargers are used, we can estimate the total energy c
 installed. This simulation helps in making informed decisions about infrastructure investments and energy requirements.
 
 Installation
-1.Navigate to the folder cd my-app
+1.Navigate to the folder my-app
 2.Run the following commands in the terminal
 
 - Install Dependencies - yarn install
